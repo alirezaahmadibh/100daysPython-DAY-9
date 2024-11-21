@@ -1,6 +1,6 @@
 # 100daysPython-DAY-9
 
-Auction Program
+# Auction Program
 This Python script implements a simple auction system where multiple bidders can place their bids, and the program determines the highest bidder. The console-based interface clears the screen between inputs to ensure privacy and smooth operation.
 
 Features
