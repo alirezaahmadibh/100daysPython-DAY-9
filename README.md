@@ -11,7 +11,6 @@ This Python script implements a simple auction system where multiple bidders can
 1. Ensure you have Python installed on your system.
 Install the required dependency by running:
 - pip install art
-- 
 2. Save the script in a file, e.g., auction.py.
 3. Execute the script:
 python auction.py
@@ -27,7 +26,6 @@ python auction.py
 What is your name? Alice
 What is your bid? $250
 Are there any other bidders? Type 'yes' or 'no'. yes
-
 What is your name? Bob
 What is your bid? $300
 Are there any other bidders? Type 'yes' or 'no'. no
